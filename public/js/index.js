@@ -1,7 +1,5 @@
-$("#add_user").submit(function(e){
-    e.preventDefault();
-    
-        alert("Data Updated Successfully");
+$("#add_user").submit(function(e){    
+        alert("Data Inserted Successfully");
     
     
 })
